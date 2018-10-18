@@ -25,7 +25,7 @@
     "@angular/platform-browser-dynamic": "^6.1.9",
     "@angular/platform-server": "^6.1.9",
     "@angular/router": "^6.1.9",
-    "@nguniversal/module-map-ngfactory-loader": "^5.0.0",
+    "@nguniversal/module-map-ngfactory-loader": "^7.0.0",
     "adm-zip": "^0.4.11",
     "angular": "^1.7.5",
     "aspnet-prerendering": "^3.0.1",
